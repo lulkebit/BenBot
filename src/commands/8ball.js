@@ -139,7 +139,6 @@ module.exports = {
                     "I hear when you were a child your mother wanted to hire somebody to take care of you, but the mafia wanted too much.",
                     "Some cause happiness wherever they go; others, whenever they go.",
                     "You are so ugly that when your mama dropped you off at school she got a fine for littering.",
-                    "You're a failed abortion whose birth certificate is an apology from the condom factory.",
                     "I would ask how old you are, but I know you can't count that high.",
                     "If you were twice as smart, you'd still be stupid.",
                     "When you were born, the police arrested your dad, the doctor slapped your mom, animal control euthanized your brother, and A&E made a documentary that saved your life.",
