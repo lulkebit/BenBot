@@ -39,7 +39,18 @@ module.exports = {
                     "probably not",
                     "How do you know about it?",
                     "Ask later when no children are listening",
-                    "Who told you that?"
+                    "Who told you that?",
+                    "I guess so",
+                    "Why would someone say yes?",
+                    "Are you serious? YES!",
+                    "Why would someone care?",
+                    "What do you expect me to say?",
+                    "I guess no",
+                    "I would say yes",
+                    "I would say no",
+                    "I am not really sure",
+                    "Why would anyone ask such a stupid question?",
+                    "If you ask such a stupid question again I will ban you"
                 ]
                 interaction.reply({embeds: [
                     new MessageEmbed()
